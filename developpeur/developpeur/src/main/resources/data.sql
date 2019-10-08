@@ -1,0 +1,1 @@
+INSERT INTO product VALUES(1, 'jeu1', 100);
